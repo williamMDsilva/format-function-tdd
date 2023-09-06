@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1694041201489" clover="3.2.0">
+  <project timestamp="1694041201489" name="All files">
+    <metrics statements="74" coveredstatements="74" conditionals="28" coveredconditionals="26" methods="4" coveredmethods="4" elements="106" coveredelements="104" complexity="0" loc="74" ncloc="74" packages="4" files="4" classes="4"/>
+    <package name="libs">
+      <metrics statements="16" coveredstatements="16" conditionals="9" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="isValidMask.js" path="/Users/williammoreiradasilva/Documents/apply_tests/libs/isValidMask.js">
+        <metrics statements="16" coveredstatements="16" conditionals="9" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="5" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="101" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="81" type="cond" truecount="0" falsecount="1"/>
+        <line num="8" count="101" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="20" type="cond" truecount="0" falsecount="1"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="101" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="libs.constants">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constants.js" path="/Users/williammoreiradasilva/Documents/apply_tests/libs/constants/constants.js">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="replace">
+      <metrics statements="19" coveredstatements="19" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="replace.js" path="/Users/williammoreiradasilva/Documents/apply_tests/replace/replace.js">
+        <metrics statements="19" coveredstatements="19" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="45" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="36" type="stmt"/>
+        <line num="9" count="36" type="cond" truecount="3" falsecount="0"/>
+        <line num="10" count="36" type="stmt"/>
+        <line num="11" count="45" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="14" count="45" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="vanillaMask">
+      <metrics statements="22" coveredstatements="22" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <file name="vanillaMaskArray.js" path="/Users/williammoreiradasilva/Documents/apply_tests/vanillaMask/vanillaMaskArray.js">
+        <metrics statements="22" coveredstatements="22" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="11" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="20" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

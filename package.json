@@ -1,0 +1,21 @@
+{
+  "name": "apply_tests",
+  "version": "1.0.0",
+  "description": "tdd applay mask",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tdd",
+    "jest"
+  ],
+  "author": "williammdsilva",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "dependencies": {
+    "vanilla-masker": "^1.2.0"
+  }
+}
